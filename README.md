@@ -10,12 +10,12 @@ Using this data, insights are drawn via pivot tables, charts, and Excel dashboar
 
 
 𝐄𝐱𝐜𝐞𝐥 𝐒𝐡𝐞𝐞𝐭𝐬 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
-pizza_sales	-> Raw data of all pizza orders
-KPI -> Summary of key performance indicators (total sales, average order value, etc.)
-Daily trends for total orders ->	Daily order volume trends visualized
-% of sales-> Category and size-wise sales percentage breakdown
-Best and Worst sellers -> Highest and lowest selling pizzas by revenue
-Dashboard ->Interactive Excel dashboard summarizing the project
+- pizza_sales	-> Raw data of all pizza orders
+- KPI -> Summary of key performance indicators (total sales, average order value, etc.)
+- Daily trends for total orders ->	Daily order volume trends visualized
+- % of sales-> Category and size-wise sales percentage breakdown
+- Best and Worst sellers -> Highest and lowest selling pizzas by revenue
+- Dashboard -> Interactive Excel dashboard summarizing the project
 
 
 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬
